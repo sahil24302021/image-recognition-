@@ -21,9 +21,4 @@ Upload a `.jpg`, `.jpeg`, or `.png` image and see what the AI predicts.
 
 ---
 
-## 📦 Installation
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/yourusername/image-recognition-app.git
-   cd image-recognition-app
